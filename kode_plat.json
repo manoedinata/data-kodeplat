@@ -1,0 +1,418 @@
+[
+    {
+        "kode": "BL",
+        "daerah": "Provinsi Nanggroe Aceh Darussalam",
+        "cakupan": "Seluruh Kabupaten/Kota di Provinsi Nanggroe Aceh Darussalam"
+    },
+    {
+        "kode": "BB",
+        "daerah": "Provinsi Sumatera Utara",
+        "cakupan": [
+            "Kabupaten Tapanuli Utara",
+            "Kabupaten Tapanuli Tengah",
+            "Kabupaten Tapanuli Selatan",
+            "Kabupaten Sibolga",
+            "Kabupaten Dairi",
+            "Kabupaten Nias"
+        ]
+    },
+    {
+        "kode": "BK",
+        "daerah": "Provinsi Sumatera Utara",
+        "cakupan": [
+            "Kota Medan",
+            "Kabupaten Deli Serdang",
+            "Kabupaten Tebing Tinggi",
+            "Kabupaten Langkat",
+            "Kabupaten Binjai",
+            "Kabupaten Simalungun",
+            "Kabupaten Pematang Siantar",
+            "Kabupaten Tanah Karo",
+            "Kabupaten Asahan",
+            "Kabupaten Labuhan Batu"
+        ]
+    },
+    {
+        "kode": "BA",
+        "daerah": "Provinsi Sumatera Barat",
+        "cakupan": "Seluruh Kabupaten/Kota di Provinsi Sumatera Barat"
+    },
+    {
+        "kode": "BM",
+        "daerah": "Provinsi Riau",
+        "cakupan": "Seluruh Kabupaten/Kota di Provinsi Riau"
+    },
+    {
+        "kode": "BP",
+        "daerah": "Provinsi Kepulauan Riau",
+        "cakupan": "Seluruh Kabupaten/Kota di Provinsi Kepulauan Riau"
+    },
+    {
+        "kode": "BG",
+        "daerah": "Provinsi Sumatera Selatan",
+        "cakupan": "Seluruh Kabupaten/Kota di Provinsi Sumatera Selatan"
+    },
+    {
+        "kode": "BN",
+        "daerah": "Provinsi Bangka-Belitung",
+        "cakupan": "Seluruh Kabupaten/Kota di Provinsi Bangka-Belitung"
+    },
+    {
+        "kode": "BE",
+        "daerah": "Provinsi Lampung",
+        "cakupan": "Seluruh Kabupaten/Kota di Provinsi Lampung"
+    },
+    {
+        "kode": "BD",
+        "daerah": "Provinsi Bengkulu",
+        "cakupan": "Seluruh Kabupaten/Kota di Provinsi Bengkulu"
+    },
+    {
+        "kode": "BH",
+        "daerah": "Provinsi Jambi",
+        "cakupan": "Seluruh Kabupaten/Kota di Provinsi Jambi"
+    },
+    {
+        "kode": "B",
+        "daerah": "Provinsi DKI Jakarta",
+        "cakupan": "Seluruh Kabupaten/Kota di Provinsi DKI Jakarta"
+    },
+    {
+        "kode": "D",
+        "daerah": "Provinsi Jawa Barat",
+        "cakupan": [
+            "Kota Bandung",
+            "Kabupaten Bandung"
+        ]
+    },
+    {
+        "kode": "F",
+        "daerah": "Provinsi Jawa Barat",
+        "cakupan": [
+            "Kodya Bogor",
+            "Kabupaten Bogor",
+            "Kabupaten Cianjur",
+            "Kabupaten Sukabumi"
+        ]
+    },
+    {
+        "kode": "T",
+        "daerah": "Provinsi Jawa Barat",
+        "cakupan": [
+            "Kabupaten Purwakarta",
+            "Kabupaten Karawang",
+            "Kabupaten Subang"
+        ]
+    },
+    {
+        "kode": "E",
+        "daerah": "Provinsi Jawa Barat",
+        "cakupan": [
+            "Kota Cirebon",
+            "Kabupaten Cirebon",
+            "Kabupaten Indramay",
+            "Kabupaten Malajengka",
+            "Kabupaten Kuningan"
+        ]
+    },
+    {
+        "kode": "Z",
+        "daerah": "Provinsi Jawa Barat",
+        "cakupan": [
+            "Kabupaten Garut",
+            "Kabupaten Sumedang",
+            "Kabupaten Tasikmalaya",
+            "Kabupaten Ciamis"
+        ]
+    },
+    {
+        "kode": "H",
+        "daerah": "Provinsi Jawa Tengah",
+        "cakupan": [
+            "Kota Semarang",
+            "Kabupaten Salatiga",
+            "Kabupaten Kendai",
+            "Kabupaten Demak",
+            "Kabupaten Grobogan"
+        ]
+    },
+    {
+        "kode": "G",
+        "daerah": "Provinsi Jawa Tengah",
+        "cakupan": [
+            "Kota Pekalongan",
+            "Kabupaten Pekalogan",
+            "Kabupaten Brebes",
+            "Kabupaten Tegal",
+            "Kabupaten Siawi",
+            "Kabupaten Batang",
+            "Kabupaten Pemalang"
+        ]
+    },
+    {
+        "kode": "K",
+        "daerah": "Provinsi Jawa Tengah",
+        "cakupan": [
+            "Kabupaten Pati",
+            "Kabupaten Kudus",
+            "Kabupaten Jepara",
+            "Kabupaten Rembang",
+            "Kabupaten Blora"
+        ]
+    },
+    {
+        "kode": "R",
+        "daerah": "Provinsi Jawa Tengah",
+        "cakupan": [
+            "Kabupaten Banyumas",
+            "Kabupaten Cilacap",
+            "Kabupaten Purbalingga",
+            "Kabupaten Banjarnegara"
+        ]
+    },
+    {
+        "kode": "AA",
+        "daerah": "Provinsi Jawa Tengah",
+        "cakupan": [
+            "Kota Magelang",
+            "Kabupaten Magelang",
+            "Kabupaten Purworejo",
+            "Kabupaten Kebumen",
+            "Kabupaten Temanggung",
+            "Kabupaten Wonosobo"
+        ]
+    },
+    {
+        "kode": "AD",
+        "daerah": "Provinsi Jawa Tengah",
+        "cakupan": [
+            "Kota Surakarta",
+            "Kabupaten Sukoharjo",
+            "Kabupaten Boyolali",
+            "Kabupaten Sragen",
+            "Kabupaten Karanganyar",
+            "Kabupaten Wonogiri",
+            "Kabupaten Klaten"
+        ]
+    },
+    {
+        "kode": "AB",
+        "daerah": "Provinsi D.I. Yogyakarta (DIY)",
+        "cakupan": "Seluruh Kabupaten/Kota di Provinsi D.I. Yogyakarta (DIY)"
+    },
+    {
+        "kode": "L",
+        "daerah": "\u00a0Provinsi Jawa Timur",
+        "cakupan": [
+            "Kota Surabaya"
+        ]
+    },
+    {
+        "kode": "W",
+        "daerah": "Provinsi Jawa Timur",
+        "cakupan": [
+            "Kabupaten Gresik",
+            "Kabupaten Sidoarjo"
+        ]
+    },
+    {
+        "kode": "N",
+        "daerah": "Provinsi Jawa Timur",
+        "cakupan": [
+            "Kota Malang",
+            "Kabupaten Malang",
+            "Kabupaten Probolinggo",
+            "Kabupaten Pasuruan",
+            "Kabupaten Lumajang"
+        ]
+    },
+    {
+        "kode": "P",
+        "daerah": "Provinsi Jawa Timur",
+        "cakupan": [
+            "Kabupaten Besuki",
+            "Kabupaten Situbondo",
+            "Kabupaten Bondowoso",
+            "Kabupaten Jember",
+            "Kabupaten Banyuwangi"
+        ]
+    },
+    {
+        "kode": "AG",
+        "daerah": "Provinsi Jawa Timur",
+        "cakupan": [
+            "Kota Kediri",
+            "Kabupaten Kediri/Pare",
+            "Kabupaten Blitar",
+            "Kabupaten Tulungagung",
+            "Kabupaten Nganjuk",
+            "Kabupaten Trenggalek"
+        ]
+    },
+    {
+        "kode": "AE",
+        "daerah": "Provinsi Jawa Timur",
+        "cakupan": [
+            "Kota Madiun",
+            "Kabupaten Madiun",
+            "Kabupaten Ngawi",
+            "Kabupaten Magetan",
+            "Kabupaten Ponorogo",
+            "Kabupaten Pacitan"
+        ]
+    },
+    {
+        "kode": "S",
+        "daerah": "Provinsi Jawa Timur",
+        "cakupan": [
+            "Kabupaten Bojonegoro",
+            "Kabupaten Tuban",
+            "Kabupaten Lamongan",
+            "Kabupaten Mojokerto",
+            "Kabupaten Jombang"
+        ]
+    },
+    {
+        "kode": "M",
+        "daerah": "Provinsi Jawa Timur",
+        "cakupan": [
+            "Kabupaten Pamekasan",
+            "Kabupaten Bangkalan",
+            "Kabupaten Sampang",
+            "Kabupaten Sumenep"
+        ]
+    },
+    {
+        "kode": "DK",
+        "daerah": "Provinsi Bali",
+        "cakupan": "Seluruh Kabupaten/Kota di Provinsi Bali"
+    },
+    {
+        "kode": "DR",
+        "daerah": "Provinsi Nusa Tenggara Barat (NTB)",
+        "cakupan": [
+            "Kota Mataram",
+            "Kabupaten Lombok Barat",
+            "Kabupaten Lombok Tengah",
+            "Kabupaten Lombok Timur"
+        ]
+    },
+    {
+        "kode": "EA",
+        "daerah": "Provinsi Nusa Tenggara Barat (NTB)",
+        "cakupan": [
+            "Kabupaten Sumbawa",
+            "Kabupaten Dompu",
+            "Kabupaten Bima"
+        ]
+    },
+    {
+        "kode": "DH",
+        "daerah": "Provinsi Nusa Tenggara Timur (NTT)",
+        "cakupan": [
+            "Kota Kupang",
+            "Kabupaten Timor Tengah Selatan",
+            "Kabupaten Timor Tengah Utara"
+        ]
+    },
+    {
+        "kode": "EB",
+        "daerah": "Provinsi Nusa Tenggara Timur (NTT)",
+        "cakupan": [
+            "Kabupaten Ende",
+            "Kabupaten Sikka",
+            "Kabupaten Flores Timur",
+            "Kabupaten Ngada",
+            "Kabupaten Manggarai",
+            "Kabupaten Alor"
+        ]
+    },
+    {
+        "kode": "ED",
+        "daerah": "Provinsi Nusa Tenggara Timur (NTT)",
+        "cakupan": [
+            "Kabupaten Sumba Timur",
+            "Kabupaten Sumba Barat"
+        ]
+    },
+    {
+        "kode": "KB",
+        "daerah": "Provinsi Kalimantan Barat",
+        "cakupan": "\u00a0Seluruh Kabupaten/Kota di Provinsi Kalimantan Barat"
+    },
+    {
+        "kode": "DA",
+        "daerah": "Provinsi Kalimantan Selatan",
+        "cakupan": "Seluruh Kabupaten/Kota di Provinsi Kalimantan Selatan"
+    },
+    {
+        "kode": "KH",
+        "daerah": "Provinsi Kalimantan Tengah",
+        "cakupan": "Seluruh Kabupaten/Kota di Provinsi Kalimantan Tengah"
+    },
+    {
+        "kode": "KT",
+        "daerah": "Provinsi Kalimantan Timur",
+        "cakupan": "Seluruh Kabupaten/Kota di Provinsi Kalimantan Timur"
+    },
+    {
+        "kode": "KU",
+        "daerah": "Provinsi Kalimantan Utara",
+        "cakupan": "Seluruh Kabupaten/Kota di Provinsi Kalimantan Utara"
+    },
+    {
+        "kode": "DB",
+        "daerah": "Provinsi Sulawesi Utara",
+        "cakupan": "-Kota Manado-Kabupaten Minahasa-Kabupaten Bitung"
+    },
+    {
+        "kode": "DL",
+        "daerah": "Provinsi Sulawesi Utara",
+        "cakupan": "-Kabupaten Sangir Talaud"
+    },
+    {
+        "kode": "DM",
+        "daerah": "Provinsi Gorontalo",
+        "cakupan": "Seluruh Kabupaten/Kota di Provinsi Gorontalo"
+    },
+    {
+        "kode": "DN",
+        "daerah": "Provinsi Sulawesi Tengah",
+        "cakupan": "Seluruh Kabupaten/Kota di Provinsi Sulawesi Tengah"
+    },
+    {
+        "kode": "DD",
+        "daerah": "Provinsi Sulawesi Selatan",
+        "cakupan": "Seluruh Kabupaten/Kota di Provinsi Sulawesi Selatan"
+    },
+    {
+        "kode": "DC",
+        "daerah": "Provinsi Sulawesi Barat",
+        "cakupan": "Seluruh Kabupaten/Kota di Provinsi Sulawesi Barat"
+    },
+    {
+        "kode": "DT",
+        "daerah": "Provinsi Sulawesi Tenggara",
+        "cakupan": "Seluruh Kabupaten/Kota di Provinsi Sulawesi Tenggara"
+    },
+    {
+        "kode": "DE",
+        "daerah": "Provinsi Maluku",
+        "cakupan": "Seluruh Kabupaten/Kota di Provinsi Maluku"
+    },
+    {
+        "kode": "DG",
+        "daerah": "Provinsi Maluku Utara",
+        "cakupan": "Seluruh Kabupaten/Kota di Provinsi Maluku Utara"
+    },
+    {
+        "kode": "DS",
+        "daerah": "Provinsi Papua",
+        "cakupan": "Seluruh Kabupaten/Kota di Provinsi Papua"
+    },
+    {
+        "kode": "PB",
+        "daerah": "Provinsi Papua Barat",
+        "cakupan": "Seluruh Kabupaten/Kota di Provinsi Papua Barat"
+    }
+]
