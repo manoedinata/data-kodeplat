@@ -16,7 +16,10 @@ for col in table.find_all("tr")[1:]:
     if col.select_one("td:nth-of-type(3)").findChildren("li"):
         cakupan = [x.text for x in col.select_one("td:nth-of-type(3)").findChildren("li")]
     else:
-        cakupan = col.select_one("td:nth-of-type(3)").text
+        if col.select_one("td:nth-of-type(3)").text.startswith("-") and len(col.select_one("td:nth-of-type(3)").text.split("-")) > 1:
+            cakupan = col.select_one("td:nth-of-type(3)").text.split("-")[1:]
+        else:
+            cakupan = col.select_one("td:nth-of-type(3)").text
 
     data.append({
         "kode": kode,

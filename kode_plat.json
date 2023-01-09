@@ -363,12 +363,18 @@
     {
         "kode": "DB",
         "daerah": "Provinsi Sulawesi Utara",
-        "cakupan": "-Kota Manado-Kabupaten Minahasa-Kabupaten Bitung"
+        "cakupan": [
+            "Kota Manado",
+            "Kabupaten Minahasa",
+            "Kabupaten Bitung"
+        ]
     },
     {
         "kode": "DL",
         "daerah": "Provinsi Sulawesi Utara",
-        "cakupan": "-Kabupaten Sangir Talaud"
+        "cakupan": [
+            "Kabupaten Sangir Talaud"
+        ]
     },
     {
         "kode": "DM",
